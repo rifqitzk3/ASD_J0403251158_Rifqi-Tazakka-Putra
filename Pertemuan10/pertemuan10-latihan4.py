@@ -1,8 +1,13 @@
+# =============================================
+# Nama : Rifqi Tazakka Putra
+# NIM  : J0403251158
+# =============================================
+
 class Node:
     def __init__(self, data):
-        self.data = data
-        self.left = None
-        self.right = None
+        self.data = data # Menyimpan nilai Node
+        self.left = None # Child Kiri
+        self.right = None # Child Kanan
 
 def insert(root, data):
     if root is None:
