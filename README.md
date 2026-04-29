@@ -1,1 +1,1 @@
-Repo for Mata Kuliah Algoritma Struktur Data
+Repo for Mata Kuliah Algoritma dan Struktur Data
