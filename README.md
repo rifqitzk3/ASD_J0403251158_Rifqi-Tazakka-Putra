@@ -1,1 +1,1 @@
-first repo ig
+Repo for Mata Kuliah Algoritma Struktur Data
